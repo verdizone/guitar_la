@@ -1,17 +1,17 @@
 import Layout from '../components/Layout'
 
-const Index = () => {
+const Tienda = () => {
   return (
     <div>
       <Layout
-        pagina="Inicio"
+        pagina="Tienda"
       >
 
       </Layout>
-      <h1>Desde Inicio</h1>
+      <h1>Desde Tienda</h1>
 
     </div>
   )
 }
 
-export default Index
+export default Tienda
