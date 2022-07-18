@@ -6,9 +6,9 @@ const Blog = () => {
       <Layout
         pagina="Blog"
       >
+      <h1>Desde Blog</h1>
 
       </Layout>
-      <h1>Desde Blog</h1>
 
     </div>
   )

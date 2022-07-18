@@ -1,3 +1,4 @@
+import Footer from './Footer'
 import Header from './Header'
 import Head from 'next/head'
 
@@ -12,7 +13,7 @@ const Layout = ({children, pagina}) => {
         </Head>
         <Header />
         {children}
-        <h1>Desde el Layout</h1>
+        <Footer />
     </div>
   )
 }

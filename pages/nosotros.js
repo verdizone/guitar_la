@@ -6,9 +6,9 @@ const Nosotros = () => {
       <Layout
         pagina="Nosotros"
       >
+      <h1>Desde Nosotros</h1>
 
       </Layout>
-      <h1>Desde Nosotros</h1>
 
     </div>
   )

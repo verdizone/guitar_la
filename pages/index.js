@@ -6,10 +6,9 @@ const Index = () => {
       <Layout
         pagina="Inicio"
       >
-
-      </Layout>
       <h1>Desde Inicio</h1>
 
+      </Layout>
     </div>
   )
 }

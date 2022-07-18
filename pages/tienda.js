@@ -4,11 +4,11 @@ const Tienda = () => {
   return (
     <div>
       <Layout
-        pagina="Tienda"
+        pagina="Tienda Virtual"
       >
+      <h1>Desde Tienda</h1>
 
       </Layout>
-      <h1>Desde Tienda</h1>
 
     </div>
   )
